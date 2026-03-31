@@ -9,8 +9,6 @@
 
 * 🔭 I’m currently working on my personal coding projects
 * 🌱 I’m currently learning and expanding my tech stack
-* 💬 Ask me about UI/UX, Web App Development or Bots
-* 📫 How to reach me: **(Tambahkan email/kontak kamu di sini)**
 
 ## 🛠️ Languages and Tools
 
