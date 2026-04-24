@@ -9,19 +9,24 @@
 
 * 🔭 I’m currently working on my personal coding projects
 * 🌱 I’m currently learning and expanding my tech stack
+* 💬 Ask me about UI/UX, Web App Development or Bots
 
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,nodejs,express,tailwind,prisma,postgres,php,python,mysql,bash,md,docker,git,vercel" alt="My Skills" />
 </div>
 <br/>
 
-## 📊 GitHub Statistics
+## 📊 GitHub & WakaTime Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trcya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="trcya's GitHub stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=trcya&layout=compact&theme=radical&hide_border=true" alt="trcya's WakaTime stats" />
 </div>
 
 ## 📈 Activity Graph
