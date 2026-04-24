@@ -1,42 +1,45 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm trcya 👋</h1>
-  <p align="center">Welcome to my GitHub profile!</p>
+
+<!-- Typing SVG Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=hey+there%2C+I'm+trcya+%F0%9F%91%8B;full-stack+developer;i+build+things+for+the+web" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges -->
+[![GitHub followers](https://img.shields.io/github/followers/trcya?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=followers)](https://github.com/trcya)
+[![GitHub stars](https://img.shields.io/github/stars/trcya?style=flat&color=2F80ED&labelColor=1a1a2e&logo=github&label=stars)](https://github.com/trcya)
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff" alt="trcya's GitHub stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=ffffff" alt="Top Languages" height="175" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&bg_color=0d1117&color=2F80ED&line=2F80ED&point=ffffff&area_color=1e3a5f&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=6" />
 
-* 🔭 I’m currently working on my personal coding projects
-* 🌱 I’m currently learning and expanding my tech stack
-* 💬 Ask me about UI/UX, Web App Development or Bots
+---
 
-## 🛠️ Languages and Tools
+<!-- Skills -->
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,nodejs,express,tailwind,prisma,postgres,php,python,mysql,bash,md,docker,git,vercel" alt="My Skills" />
-</div>
-<br/>
+**frontend**
 
-## 📊 GitHub & WakaTime Statistics
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trcya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="trcya's GitHub stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+**backend & databases**
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=trcya&layout=compact&theme=radical&hide_border=true" alt="trcya's WakaTime stats" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mysql,php,python" />
 
-## 📈 Activity Graph
+**tools & infra**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&theme=react-dark&hide_border=true" alt="trcya's Activity Graph"/>
-</div>
+<img src="https://skillicons.dev/icons?i=git,docker,bash,md,lua,vercel" />
 
-## 🔥 GitHub Streak
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trcya&theme=radical&hide_border=true" alt="trcya's GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=trcya&style=flat&color=2F80ED&label=profile+views" />
+
 </div>
