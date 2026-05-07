@@ -25,8 +25,7 @@
 
 </div>
 
-<!-- Wavy Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
@@ -54,7 +53,7 @@ const terecya = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
 <!-- GitHub Stats Section -->
 ## 📊 &nbsp;GitHub Analytics
@@ -68,11 +67,11 @@ const terecya = {
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&langs_count=8" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Streak Stats -->
 <a href="https://github.com/trcya">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=trcya&theme=tokyonight&hide_border=true&background=0d1117&ring=3498db&fire=00d2ff&currStreakLabel=3498db&sideLabels=a9b1d6&dates=545454" width="700" />
+  <img src="https://streak-stats.demolab.com?user=trcya&theme=tokyonight&hide_border=true&background=0D1117&ring=3498DB&fire=00D2FF&currStreakLabel=3498DB&sideLabels=A9B1D6&dates=545454" width="700" />
 </a>
 
 <br/><br/>
@@ -82,7 +81,7 @@ const terecya = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
 <!-- Trophies -->
 ## 🏆 &nbsp;GitHub Trophies
@@ -91,9 +90,7 @@ const terecya = {
   <img src="https://github-profile-trophy.vercel.app/?username=trcya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
 <!-- Tech Stack -->
 ## 🛠️ &nbsp;Tech Stack
@@ -131,7 +128,7 @@ const terecya = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
 <!-- Featured Projects -->
 ## 🚀 &nbsp;Featured Projects
@@ -153,25 +150,7 @@ const terecya = {
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trcya/trcya/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trcya/trcya/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/trcya/trcya/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600" />
-</div>
-
-<br/>
+---
 
 <!-- Footer -->
 <div align="center">
