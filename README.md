@@ -52,7 +52,11 @@ const terecya = {
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,nodejs,express,prisma,php,postgres,mysql,python,lua,git,docker,vercel&theme=dark" />
+
+| Frontend | Backend & Database | DevOps & Tools |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,postgres,mysql,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=lua,git,docker,bash,vercel,md,discord&theme=dark" /> |
+
 </div>
 
 ---
