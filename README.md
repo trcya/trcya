@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Building+scalable+systems+with+modern+tools;Lua+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+scalable+systems+with+modern+tools;Lua+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Python" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-3498db?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Scalability-2ecc71?style=for-the-badge&logo=target&logoColor=white" />
@@ -37,12 +37,12 @@ const terecya = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=trcya&theme=tokyonight&hide_border=true&background=0D1117&ring=3498DB&fire=00D2FF&currStreakLabel=3498DB&sideLabels=A9B1D6&dates=545454" width="700" />
+  <img src="https://streak-stats.demolab.com?user=trcya&theme=tokyonight&hide_border=true" width="700" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&bg_color=0d1117&color=3498db&line=00d2ff&point=ffffff&area_color=3498db&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=12" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&bg_color=0d1117&color=3498db&line=00d2ff&point=ffffff&area_color=3498db&area=true&hide_border=true" width="100%" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=trcya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 </div>
