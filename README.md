@@ -9,10 +9,10 @@
   <img src="https://img.shields.io/badge/Focus-Scalability-2ecc71?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20In-Indonesia-e74c3c?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <br/><br/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=trcya&label=PROFILE%20VIEWS&countColor=%233498db&style=flat-square&labelStyle=lower" />
   <a href="https://github.com/trcya?tab=followers">
-    <img src="https://img.shields.io/github/followers/trcya?style=for-the-badge&color=3498db&labelColor=1a1b27&logo=github" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-1-3498db?style=flat-square&logo=github&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=trcya&color=3498db&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 ---
@@ -37,10 +37,10 @@ const terecya = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=trcya&theme=tokyonight&hide_border=true" width="700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trcya&theme=tokyonight&hide_border=true" width="700" />
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&bg_color=0d1117&color=3498db&line=00d2ff&point=ffffff&area_color=3498db&area=true&hide_border=true" width="100%" />
   <br/><br/>
