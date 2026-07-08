@@ -37,14 +37,13 @@ const terecya = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.anuraghazra.dev/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-  <img height="160" src="https://github-readme-stats.anuraghazra.dev/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://img.shields.io/github/stars/trcya?style=for-the-badge&color=3498db&label=Stars" />
+  <img src="https://img.shields.io/github/forks/trcya?style=for-the-badge&color=2ecc71&label=Forks" />
+  <img src="https://img.shields.io/github/issues/trcya?style=for-the-badge&color=e74c3c&label=Issues" />
+  <img src="https://img.shields.io/github/languages/top/trcya?style=for-the-badge&color=3498db" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trcya&theme=tokyonight&hide_border=true" width="700" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trcya&bg_color=0d1117&color=3498db&line=00d2ff&point=ffffff&area_color=3498db&area=true&hide_border=true" width="100%" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=trcya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+  <img src="https://img.shields.io/github/followers/trcya?style=for-the-badge&color=00d2ff&label=Followers" />
+  <img src="https://img.shields.io/github/repos/trcya?style=for-the-badge&color=f39c12&label=Repos" />
 </div>
 
 ---
