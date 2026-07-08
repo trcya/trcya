@@ -37,7 +37,7 @@ const terecya = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&include_all_commits=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6&bg_color=0d1117&langs_count=6" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=trcya&theme=tokyonight&hide_border=true&background=0D1117&ring=3498DB&fire=00D2FF&currStreakLabel=3498DB&sideLabels=A9B1D6&dates=545454" width="700" />
@@ -57,17 +57,6 @@ const terecya = {
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,postgres,mysql,python&theme=dark" /> | <img src="https://skillicons.dev/icons?i=lua,git,docker,bash,vercel,md,discord&theme=dark" /> |
 
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/trcya/Teya-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=trcya&repo=Teya-bot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6" /></a>
-  <a href="https://github.com/trcya/dashboard-teya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=trcya&repo=dashboard-teya&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6" /></a>
-  <a href="https://github.com/trcya/terehub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=trcya&repo=terehub&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6" /></a>
-  <a href="https://github.com/trcya/happyday"><img src="https://github-readme-stats.vercel.app/api/pin/?username=trcya&repo=happyday&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3498db&icon_color=00d2ff&text_color=a9b1d6" /></a>
 </div>
 
 <br/>
