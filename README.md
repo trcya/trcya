@@ -105,15 +105,6 @@ const terecya = {
 
 <br/>
 
-## 📈 GitHub Activity & Contributions
-
-<div align="center">
-  <!-- Activity Snake Animation -->
-  <img src="https://raw.githubusercontent.com/trcya/trcya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br/>
-
 <!-- Blue Footer Banner -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060d1a,50:0e2246,100:2563eb&height=80&section=footer" />
