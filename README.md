@@ -105,17 +105,11 @@ const terecya = {
 
 <br/>
 
-## 📈 GitHub Analytics & Activity
+## 📈 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=nord&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&bg_color=0a152e" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=nord&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=0a152e" height="175" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trcya&theme=nord&hide_border=true&background=0a152e&ring=3b82f6&fire=2563eb&currStreakLabel=3b82f6" width="90%" />
+  <!-- Activity Snake Animation -->
+  <img src="https://raw.githubusercontent.com/trcya/trcya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br/>
