@@ -1,89 +1,130 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,30:111927,70:1a2638,100:00d2ff&height=220&section=header&text=TERECYA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Liquid%20Glass%20%7C%20Full-stack%20Developer%20%7C%20Architect&descSize=16&descAlignY=58&descAlign=50" width="100%" />
+  <!-- Glowing Glass Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,40:0d1627,70:162544,100:00f2fe&height=240&section=header&text=TERECYA&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A8%20LIQUID%20GLASS%20EXPERIENCE%20%7C%20FULL-STACK%20ARCHITECT%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic Glass Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E2%9C%A8+Crafting+Glassmorphism+%26+Modern+Systems;%F0%9F%92%A0+Lua+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Python" />
-  
-  <br/>
-  
-  <!-- Liquid Glass Styled Badges -->
-  <a href="#"><img src="https://img.shields.io/badge/STYLE-LIQUID%20GLASS-00d2ff?style=for-the-badge&logo=css3&logoColor=white&colorA=0d1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/STATUS-BUILDING%20COOL%20STUFF-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white&colorA=0d1117" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LOCATION-INDONESIA-FF4B4B?style=for-the-badge&logo=googlemaps&logoColor=white&colorA=0d1117" /></a>
-  
+  <!-- Animated Typing SVG with Liquid Glass Glow -->
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9C%A8+Architecting+Scalable+Modern+Applications;%F0%9F%92%A0+Mastering+Lua+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Python;%F0%9F%A9B+Crafting+Fluid+%26+Glassmorphic+Digital+Experiences" />
+
+  <br/><br/>
+
+  <!-- High-End Liquid Glass Badges -->
+  <a href="#"><img src="https://img.shields.io/badge/AESTHETIC-LIQUID%20GLASS-00f2fe?style=for-the-badge&logo=css3&logoColor=white&colorA=080e1a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/ROLE-FULLSTACK%20DEVELOPER-4facfe?style=for-the-badge&logo=codefactor&logoColor=white&colorA=080e1a" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LOCATION-INDONESIA-ff0844?style=for-the-badge&logo=googlemaps&logoColor=white&colorA=080e1a" /></a>
+
   <br/><br/>
 
   <a href="https://github.com/trcya?tab=followers">
-    <img src="https://img.shields.io/badge/FOLLOWERS-1-00d2ff?style=flat-square&logo=github&logoColor=white&colorA=161b22" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-1-00f2fe?style=flat-square&logo=github&logoColor=white&colorA=0f172a" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=trcya&color=00d2ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=trcya&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
 
----
+<!-- Liquid Glass Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 💧 About Me
+<br/>
+
+## 💧 `about_me.js`
 
 ```javascript
+/**
+ * @file Liquid Glass Developer Profile
+ * @author terecya (trcya)
+ */
+
 const terecya = {
-    alias: "trcya",
-    aesthetic: "Liquid Glass ✨",
-    location: "Indonesia",
-    focus: ["Full-stack Development", "Discord Bot Architecture"],
-    coreStack: {
+    identity: {
+        alias: "trcya",
+        title: "Full-Stack Developer & Bot Architect",
+        location: "Indonesia 🇮🇩",
+        vibe: "Liquid Glass & Glassmorphism Aesthetics ✨"
+    },
+    expertise: [
+        "Scalable Backend Systems",
+        "Discord Bot Infrastructure",
+        "Modern Responsive Web Apps"
+    ],
+    skills: {
         languages: ["JavaScript", "TypeScript", "Lua", "Python", "PHP"],
-        frontend: ["React", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Prisma"],
+        frontend:  ["React.js", "Next.js", "Tailwind CSS"],
+        backend:   ["Node.js", "Express", "Prisma ORM"],
         databases: ["PostgreSQL", "MySQL"],
-        tools: ["Docker", "Git", "Vercel", "Railway"]
+        devops:    ["Docker", "Git", "Vercel", "Railway"]
     }
 };
 ```
 
----
+<br/>
 
-### 🔮 Tech Stack
+<!-- Liquid Glass Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 🔮 Tech Stack & Ecosystem
 
 <div align="center">
   <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Frontend & UI</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>Backend & DB</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,postgres,mysql,python&theme=dark" />
-      </td>
-      <td align="center" width="33%">
-        <b>DevOps & Tools</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=lua,git,docker,bash,vercel,md,discord&theme=dark" />
-      </td>
-    </tr>
+    <thead>
+      <tr>
+        <th align="center" width="33%">🌐 Frontend & UI</th>
+        <th align="center" width="33%">⚡ Backend & Storage</th>
+        <th align="center" width="33%">🛠️ Cloud & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">
+          <br/>
+          <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" /><br/><br/>
+        </td>
+        <td align="center">
+          <br/>
+          <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,postgres,mysql,python&theme=dark" /><br/><br/>
+        </td>
+        <td align="center">
+          <br/>
+          <img src="https://skillicons.dev/icons?i=lua,git,docker,bash,vercel,md,discord&theme=dark" /><br/><br/>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
 
----
+<br/>
 
-### 📊 GitHub Metrics & Activity
+<!-- Liquid Glass Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<br/>
+
+## 📈 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/trcya?style=for-the-badge&color=00d2ff&colorA=0d1117&label=Stars" />
-  <img src="https://img.shields.io/github/forks/trcya?style=for-the-badge&color=8A2BE2&colorA=0d1117&label=Forks" />
-  <img src="https://img.shields.io/github/issues/trcya?style=for-the-badge&color=FF4B4B&colorA=0d1117&label=Issues" />
-  <img src="https://img.shields.io/github/languages/top/trcya?style=for-the-badge&color=00d2ff&colorA=0d1117" />
-  <br/><br/>
-  <img src="https://img.shields.io/github/followers/trcya?style=for-the-badge&color=00d2ff&colorA=0d1117&label=Followers" />
-  <img src="https://img.shields.io/github/repos/trcya?style=for-the-badge&color=f39c12&colorA=0d1117&label=Repos" />
+  <a href="https://github.com/trcya">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=glassmorphism&hide_border=true&title_color=00f2fe&icon_color=00f2fe&text_color=ffffff&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/trcya">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=glassmorphism&hide_border=true&title_color=00f2fe&text_color=ffffff&bg_color=00000000" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111927,100:00d2ff&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trcya&theme=glassmorphism&hide_border=true&background=00000000&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe" width="90%" />
+</div>
+
+<br/>
+
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050811,50:0d1627,100:00f2fe&height=80&section=footer" width="100%" />
 </div>
