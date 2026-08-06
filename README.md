@@ -7,14 +7,18 @@
 
 <div align="center">
   <!-- Dynamic Blue Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=%E2%9C%A8+David+Adesta+(terecya)+-+Founder+of+Teyabot;%F0%9F%A4%96+Architecting+Scalable+Discord+Bots+%26+Gateways;%F0%9F%92%A0+Mastering+TypeScript+%E2%80%A2+Lua+%E2%80%A2+Node.js+%E2%80%A2+React;%F0%9F%A9B+Crafting+Fluid+Liquid+Blue+Glass+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=%E2%9C%A8+David+Adesta+(terecya)+-+Founder+of+Teyabot;%F0%9F%87%AE%F0%9F%87%A9+Official+Website:+https://teya.my.id/;%F0%9F%A4%96+Architecting+Scalable+Discord+Bots+%26+Gateways;%F0%9F%92%A0+Mastering+TypeScript+%E2%80%A2+Lua+%E2%80%A2+Node.js+%E2%80%A2+React" />
 
   <br/><br/>
 
   <!-- Liquid Blue Glass Badges -->
-  <img src="https://img.shields.io/badge/FOUNDER-TEYABOT-3b82f6?style=for-the-badge&logo=discord&logoColor=white&colorA=0a152e" />
-  <img src="https://img.shields.io/badge/ROLE-DISCORD%20BOT%20ARCHITECT-2563eb?style=for-the-badge&logo=codefactor&logoColor=white&colorA=0a152e" />
-  <img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white&colorA=0a152e" />
+  <a href="https://teya.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-TEYA.MY.ID-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&colorA=0a152e" />
+  </a>
+  <a href="https://discord.gg/DAVMgyzB7P" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-TEYABOT_COMMUNITY-5865f2?style=for-the-badge&logo=discord&logoColor=white&colorA=0a152e" />
+  </a>
+  <img src="https://img.shields.io/badge/FOUNDER-TEYABOT-2563eb?style=for-the-badge&logo=codefactor&logoColor=white&colorA=0a152e" />
 
   <br/><br/>
 
@@ -49,8 +53,15 @@ const davidAdesta = {
     },
     flagshipProject: {
         name: "Teyabot",
-        type: "High-Concurrency Bot Infrastructure",
-        engine: "Node.js 24 + TypeScript + Redis Event Gateway",
+        officialWebsite: "https://teya.my.id/",
+        type: "Discord Bot Dashboard, Moderation, Protection & Engagement",
+        features: [
+            "Couple System & Voice Activity XP",
+            "Anti-Phishing & Automated Link Security",
+            "Multi-Server Moderation Dashboard",
+            "Global Couple Leaderboard"
+        ],
+        engine: "Next.js + Node.js + TypeScript + Redis Gateway",
         status: "🟢 Active & Operational"
     },
     expertise: [
@@ -76,32 +87,35 @@ const davidAdesta = {
 
 <br/>
 
-## 🤖 Teyabot Ecosystem & Architecture
+## 🌐 Teyabot Official Web Dashboard & Community
+
+> 🌐 **Official Website & Dashboard:** [https://teya.my.id/](https://teya.my.id/)  
+> 💬 **Discord Support Community:** [join.discord/DAVMgyzB7P](https://discord.gg/DAVMgyzB7P)
 
 <div align="center">
   <table width="100%">
     <thead>
       <tr>
-        <th align="left" width="50%">⚡ Key Feature</th>
-        <th align="left" width="50%">🛠️ Technical Stack</th>
+        <th align="left" width="40%">⚡ Feature / Module</th>
+        <th align="left" width="60%">📝 Overview</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><b>Multi-Shard Gateway Handling</b></td>
-        <td><code>Node.js</code> • <code>Discord.js v14</code> • <code>TypeScript</code></td>
+        <td><b>💖 Couple System & Voice XP</b></td>
+        <td>Form unique bonds with members, earn XP through voice activity, and climb the Global Leaderboard.</td>
       </tr>
       <tr>
-        <td><b>Event Caching & Command Queues</b></td>
-        <td><code>Redis Pub/Sub</code> • <code>BullMQ</code></td>
+        <td><b>🛡️ Anti-Phishing Protection</b></td>
+        <td>Advanced threat Sentinel automatically detecting, blocking, and purging malicious gift scam links.</td>
       </tr>
       <tr>
-        <td><b>Database Persistence</b></td>
-        <td><code>PostgreSQL</code> • <code>Prisma ORM</code></td>
+        <td><b>📊 Global Leaderboard & Dashboard</b></td>
+        <td>Real-time web analytics and server management interface built with Next.js & Tailwind CSS.</td>
       </tr>
       <tr>
-        <td><b>Automation & Embedded Logic</b></td>
-        <td><code>Embedded Lua Engine</code></td>
+        <td><b>⚡ High Performance SLA</b></td>
+        <td>99.9% Uptime with zero-latency sharded gateway handling 10,000+ active users.</td>
       </tr>
     </tbody>
   </table>
@@ -109,14 +123,14 @@ const davidAdesta = {
 
 <br/>
 
-### 📜 Teyabot Core Slash Commands
+### 📜 Core Slash Commands
 
-| Slash Command | Description | Response Type |
+| Slash Command | Description | Link / Action |
 | :--- | :--- | :--- |
-| `🤖 /help` | Opens interactive command directory & user manual | Rich Glass Embed |
-| `📊 /stats` | Displays real-time cluster uptime, gateway ping & memory load | System Metrics Card |
-| `🧘 /mindful` | Triggers Teyabot's daily mindfulness & habit check routine | Interactive Buttons |
-| `⚡ /ping` | Measures WebSocket roundtrip latency & API response time | Instant Pong Signal |
+| `💖 /couple propose` | Propose partner & start voice bonding XP | [Learn More](https://teya.my.id/public-commands) |
+| `🛡️ /protection` | Configure Anti-Phishing & auto-moderation filters | [View Docs](https://teya.my.id/docs) |
+| `🏆 /leaderboard` | Display server & global couple ranking | [Live Leaderboard](https://teya.my.id/public-leaderboard) |
+| `⚙️ /dashboard` | Access web management console | [Go to Web App](https://teya.my.id/) |
 
 <br/>
 
@@ -183,14 +197,14 @@ const davidAdesta = {
 ## 📬 Connect with David Adesta
 
 <div align="center">
+  <a href="https://teya.my.id/" target="_blank">
+    <img src="https://img.shields.io/badge/TEYABOT_WEB-TEYA.MY.ID-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&colorA=0a152e" />
+  </a>
   <a href="https://github.com/trcya" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-trcya-3b82f6?style=for-the-badge&logo=github&logoColor=white&colorA=0a152e" />
+    <img src="https://img.shields.io/badge/GITHUB-trcya-2563eb?style=for-the-badge&logo=github&logoColor=white&colorA=0a152e" />
   </a>
-  <a href="mailto:david.adesta@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-DAVID%20ADESTA-2563eb?style=for-the-badge&logo=gmail&logoColor=white&colorA=0a152e" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-terecya-5865f2?style=for-the-badge&logo=discord&logoColor=white&colorA=0a152e" />
+  <a href="https://discord.gg/DAVMgyzB7P" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-COMMUNITY-5865f2?style=for-the-badge&logo=discord&logoColor=white&colorA=0a152e" />
   </a>
 </div>
 
