@@ -1,19 +1,19 @@
 <div align="center">
-  <!-- Royal Blue Glass Header Banner -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060d1a,35:0e2246,75:183b7a,100:2563eb&height=280&section=header&text=TERECYA&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20FULL-STACK%20DEVELOPER%20%7C%20DISCORD%20BOT%20ARCHITECT%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50" />
+  <!-- Royal Blue Liquid Glass Header Banner -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:040814,35:0a152e,75:183b7a,100:2563eb&height=280&section=header&text=DAVID%20ADESTA&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A8%20FOUNDER%20OF%20TEYABOT%20%7C%20DISCORD%20BOT%20ARCHITECT%20%7C%20FULL-STACK%20%E2%9C%A8&descSize=16&descAlignY=58&descAlign=50" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Dynamic Blue Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9C%A8+Architecting+Scalable+Modern+Applications;%F0%9F%92%A0+Mastering+Lua+%E2%80%A2+TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Python;%F0%9F%A9B+Crafting+Fluid+%26+Glassmorphic+Digital+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%9C%A8+David+Adesta+(terecya)+-+Founder+of+Teyabot;%F0%9F%A4%96+Architecting+High-Concurrency+Discord+Bots;%F0%9F%92%A0+Mastering+TypeScript+%E2%80%A2+Lua+%E2%80%A2+Node.js+%E2%80%A2+React;%F0%9F%A9B+Crafting+Fluid+Liquid+Blue+Glass+Digital+Experiences" />
 
   <br/><br/>
 
   <!-- Liquid Blue Glass Badges -->
-  <img src="https://img.shields.io/badge/AESTHETIC-LIQUID%20GLASS-3b82f6?style=for-the-badge&logo=css3&logoColor=white&colorA=0a152e" />
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20DEVELOPER-2563eb?style=for-the-badge&logo=codefactor&logoColor=white&colorA=0a152e" />
+  <img src="https://img.shields.io/badge/FOUNDER-TEYABOT-3b82f6?style=for-the-badge&logo=discord&logoColor=white&colorA=0a152e" />
+  <img src="https://img.shields.io/badge/ROLE-DISCORD%20BOT%20ARCHITECT-2563eb?style=for-the-badge&logo=codefactor&logoColor=white&colorA=0a152e" />
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-1d4ed8?style=for-the-badge&logo=googlemaps&logoColor=white&colorA=0a152e" />
 
   <br/><br/>
@@ -35,26 +35,36 @@
 
 ```javascript
 /**
- * @file Liquid Glass Developer Profile
- * @author terecya (trcya)
+ * @file Liquid Glass Developer Profile & Bot Ecosystem
+ * @author David Adesta (terecya / trcya)
  */
 
-const terecya = {
+const davidAdesta = {
     identity: {
-        alias: "trcya",
-        title: "Full-Stack Developer & Bot Architect",
+        realName: "David Adesta",
+        alias: "terecya (trcya)",
+        roles: [
+            "Founder of Teyabot",
+            "Discord Bot Architect",
+            "Full-Stack Web Engineer"
+        ],
         location: "Indonesia 🇮🇩",
         vibe: "Liquid Blue Glass Aesthetics 💙"
     },
+    flagshipProject: {
+        name: "Teyabot",
+        type: "High-Concurrency Bot Infrastructure",
+        engine: "Node.js + TypeScript + Redis Queues"
+    },
     expertise: [
-        "Scalable Backend Systems",
-        "Discord Bot Infrastructure",
-        "Modern Responsive Web Apps"
+        "Scalable Backend & Bot Infrastructure",
+        "Multi-Sharded Discord Gateways",
+        "Fluid Liquid Glass Web Applications"
     ],
     skills: {
-        languages: ["JavaScript", "TypeScript", "Lua", "Python", "PHP"],
-        frontend:  ["React.js", "Next.js", "Tailwind CSS"],
-        backend:   ["Node.js", "Express", "Prisma ORM"],
+        languages: ["TypeScript", "JavaScript", "Lua", "Python", "PHP"],
+        frontend:  ["React.js", "Next.js", "Vanilla CSS Glassmorphism"],
+        backend:   ["Node.js", "Express", "Prisma ORM", "Redis"],
         databases: ["PostgreSQL", "MySQL"],
         devops:    ["Docker", "Git", "Vercel", "Railway"]
     }
@@ -87,7 +97,7 @@ const terecya = {
         </td>
         <td align="center">
           <br/>
-          <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,php,postgres,mysql,python&theme=dark" /><br/><br/>
+          <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,redis,postgres,mysql,python&theme=dark" /><br/><br/>
         </td>
         <td align="center">
           <br/>
@@ -100,12 +110,7 @@ const terecya = {
 
 <br/>
 
-<!-- Blue Liquid Glass Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
 <!-- Blue Footer Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060d1a,50:0e2246,100:2563eb&height=80&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:040814,50:0a152e,100:2563eb&height=80&section=footer" />
 </div>
