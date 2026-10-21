@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:1e3a8a,100:3b82f6&height=200&section=header&text=David%20Adesta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Teyabot%20%7C%20Discord%20Bot%20Architect%20%7C%20Full-Stack%20Developer&descSize=15&descAlignY=58" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:1e3a8a,100:3b82f6&height=200&section=header&text=David%20Adesta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Founder%20of%20Teyabot%20%7C%20Freelance%20Developer%20at%20Nexthub%20%26%20Syshub&descSize=15&descAlignY=58" />
 
   <br/>
 
@@ -12,8 +12,9 @@
 
 ### 👋 Hi there, I'm David Adesta (`trcya`)
 
-I am a **Full-Stack Developer** & **Discord Bot Architect** based in Indonesia 🇮🇩, passionate about building scalable web applications, automation bots, and high-performance backends.
+I am a **Freelance Developer**, **Full-Stack Engineer** & **Discord Bot Architect** based in Indonesia 🇮🇩, passionate about building scalable web applications, custom scripts, automation bots, and high-performance backends.
 
+- 💼 **Freelancing:** Currently working as a Freelance Developer at **Nexthub** & **Syshub**.
 - 🚀 **Founder of [Teyabot](https://teya.my.id/):** A feature-rich Discord bot with Couple Systems, Anti-Phishing Protection, and Server Management.
 - 🛠️ **Core Stack:** TypeScript, JavaScript, Lua, Python, Node.js, Next.js, React, Redis, & PostgreSQL.
 - 💬 **Community:** Join our [Discord Server](https://discord.gg/DAVMgyzB7P) to chat or collaborate!
