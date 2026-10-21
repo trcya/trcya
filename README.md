@@ -31,9 +31,8 @@ I am a **Full-Stack Developer** & **Discord Bot Architect** based in Indonesia ð
 ### ðŸ“Š GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/trcya">
-    <img src="https://github-profile-trophy.vercel.app/?username=trcya&theme=tokyonight&no-frame=true&no-background=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=trcya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trcya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
 </div>
 
 <br/>
